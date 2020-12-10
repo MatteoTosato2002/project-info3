@@ -1,0 +1,13 @@
+body{
+    background: #02047b !important;
+  }
+
+#slide1{
+    width: 50%;
+    margin-left: 25%
+  }
+
+.paragrafo{
+    color: rgb(255, 251, 0);
+    text-align: center;
+}
